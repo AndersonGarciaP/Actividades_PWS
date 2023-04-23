@@ -1,7 +1,6 @@
 package org.example;
 
-public class calcularSalarioBruto {
-    class Empleado {
+public class Calculador {
         public enum TipoEmpleado {
             VENDEDOR, ENCARGADO
         }
@@ -42,4 +41,3 @@ public class calcularSalarioBruto {
         }
     }
 
-}
